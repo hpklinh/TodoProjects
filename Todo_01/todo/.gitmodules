@@ -1,0 +1,3 @@
+[submodule "TodoProjects"]
+	path = TodoProjects
+	url = https://github.com/hpklinh/TodoProjects.git
